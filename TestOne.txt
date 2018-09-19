@@ -6,3 +6,4 @@ This should be in feA version1.
 This should be in feA version2.
 push to origin.
 modify 1.
+modify 2, test pull.
