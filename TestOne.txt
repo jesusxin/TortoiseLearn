@@ -8,3 +8,4 @@ push to origin.
 modify 1.
 modify 2, test pull.
 2nd version after v1.0
+create conflict and sovled.
